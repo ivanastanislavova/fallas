@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@zappar/zappar-aframe": "^2.2.4",
+    "aframe": "^1.7.1"
+  }
+}
